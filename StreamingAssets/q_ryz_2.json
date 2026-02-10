@@ -1,0 +1,52 @@
+[
+    {
+        "text": "¿En qué país se jugó el primer Mundial de fútbol?",
+        "options": ["Brasil", "Uruguay", "Italia"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "¿En qué año se celebró el primer Mundial de fútbol?",
+        "options": ["1926", "1930", "1934"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "¿Qué selección ganó el Mundial de 1970?",
+        "options": ["Italia", "Alemania", "Brasil"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "text": "¿Qué jugador es conocido como 'El Rey del Fútbol' por sus Mundiales?",
+        "options": ["Diego Maradona", "Pelé", "Ronaldo"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "¿En qué Mundial Diego Maradona anotó el famoso gol de la 'Mano de Dios'?",
+        "options": ["México 1970", "España 1982", "México 1986"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "text": "¿Qué país ganó el Mundial de 2010 por primera vez en su historia?",
+        "options": ["Alemania", "España", "Francia"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "¿Qué selección ha ganado más Copas del Mundo?",
+        "options": ["Alemania", "Italia", "Brasil"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "text": "¿En qué Mundial se utilizó por primera vez el VAR?",
+        "options": ["Brasil 2014", "Rusia 2018", "Qatar 2022"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "¿Qué país fue sede del Mundial de 1986?",
+        "options": ["Argentina", "Estados Unidos", "México"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "text": "¿Quién ganó el Mundial de fútbol en 2022?",
+        "options": ["Francia", "Argentina", "Croacia"],
+        "correctAnswerIndex": 1
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "text": "1. ¿A que país pertenece la bandera?",
+        "options": ["España", "Andorra", "Portugal", "Marruecos"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "text": "2. ¿A que país pertenece la bandera?",
+        "options": ["Jordania", "Arabia Saudita ", "Irak", "Catar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "3. ¿A que país pertenece la bandera?",
+        "options": ["Países Bajos", "Rumania", "Francia", "Chad"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "text": "4. ¿A que país pertenece la bandera?",
+        "options": ["Costa de Marfil", "India", "Níger", "Irlanda"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "text": "5. ¿A que país pertenece la bandera?",
+        "options": ["Bélgica", "Alemania", "Uganda", "Angola"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "6. ¿A que país pertenece la bandera?",
+        "options": ["Turquía", "Pakistán", "Mauritania", "Argelia"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "text": "7. ¿A que país pertenece la bandera?",
+        "options": ["Japón", "China", "Corea del Sur", "Corea del Norte"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "text": "8. ¿A que país pertenece la bandera?",
+        "options": ["México", "Italia", "Irlanda", "Hungría"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "text": "9. ¿A que país pertenece la bandera?",
+        "options": ["Dianamarca", "Perú", "Autria", "Canadá"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "text": "10. ¿A que país pertenece la bandera?",
+        "options": ["Albania", "Montenegro", "Serbia", "Rusia"],
+        "correctAnswerIndex": 0
+    }
+]
