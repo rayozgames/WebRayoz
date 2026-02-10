@@ -1,9 +1,9 @@
-const cacheName = "Rayoz Games-Rayoz MiniGames-0.1";
+const cacheName = "Rayoz Games-Rayoz Race-1.0";
 const contentToCache = [
-    "Build/Web_MiniGames_1.loader.js",
-    "Build/Web_MiniGames_1.framework.js.gz",
-    "Build/Web_MiniGames_1.data.gz",
-    "Build/Web_MiniGames_1.wasm.gz",
+    "Build/WEB_RayozRace_Git_1.loader.js",
+    "Build/WEB_RayozRace_Git_1.framework.js",
+    "Build/WEB_RayozRace_Git_1.data",
+    "Build/WEB_RayozRace_Git_1.wasm",
     "TemplateData/style.css"
 
 ];

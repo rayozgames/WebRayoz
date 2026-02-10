@@ -1,11 +1,11 @@
 {
-    "name": "Rayoz MiniGames",
-    "short_name": "Rayoz MiniGames",
+    "name": "Rayoz Race",
+    "short_name": "Rayoz Race",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "Rayoz MiniGames",
+    "description": "",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
